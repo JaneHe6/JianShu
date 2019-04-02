@@ -1,0 +1,7 @@
+{
+	"success":true,
+	"data":{
+		"title":"2018年九个很受欢迎的vue前端UI框架",
+		"content":"<img src='//upload-images.jianshu.io/upload_images/5640239-9fa6fce84eea1b33.png' alt=''/><p>最近在逛各大网站，论坛，SegmentFault等编程问答社区，发现Vue.js异常火爆，重复性的提问和内容也很多，小编自己也趁着这个大前端的热潮，着手学习了一段时间的Vue.js，目前用它正在做自己的公司项目。</p><p>学习的过程之中发现继最热的 React 组件库和 Angular 组件库之后，这里有很多个流行和实用的 Vue.js 组件库完善你的下一个用 Vue.JS 编写 UI 界面的应用程序。Vue.js是一套构建用户界面的 渐进式框架。与其他重量级框架不同的是，Vue 采用自底向上增量开发的设计。</p>"
+	}
+}
